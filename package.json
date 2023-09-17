@@ -1,0 +1,25 @@
+{
+  "name": "juego-plataforma-js",
+  "version": "1.0.0",
+  "description": "Es un juego realizado con canvas, que se trata de plataformas y atacar enemigos, esta hecho en 144hz",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmarcm/JuegoPlataformasJS.git"
+  },
+  "keywords": [
+    "juego",
+    "canvas",
+    "plataforma",
+    "javascript"
+  ],
+  "author": "Enmanuel Colina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enmarcm/JuegoPlataformasJS/issues"
+  },
+  "homepage": "https://github.com/enmarcm/JuegoPlataformasJS#readme"
+}
